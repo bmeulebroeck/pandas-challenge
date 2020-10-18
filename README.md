@@ -4,6 +4,11 @@ Week 4 homework using pandas and Python
 # Heroes of Pymoli
 I chose the Heroes of Pymoli exercise after reading the descriptions. It caught my interest more than the school data. My notebook for submission is "HeroesOfPymoli_PurchasingDataInsights.ipynb"
 
+# Three Observable Trends from the exercise:
+1. The player population in this dataset is mostly male (84.03%)
+2. Males account for the majority of purchases ($1,967.64 out of $2,379.77 total). However Females spend more per person than males ($4.47 vs. $4.07)
+3. Nearly 77% of the players in this set are between the ages of 15-29, and they account for 76% of the purchase value.
+
 # Starting Out
 Building the initial data frame and finding the total unique players was very straight-forward and I was able to generate that pretty quickly. For the 'Purchasing Analysis (Total)' I referred back to the class activities and was able to pull out enough examples to get me started, then just worked on fine-tuning.
 
